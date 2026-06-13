@@ -48,7 +48,7 @@ My name is **Zezhong Jin**, and I am currently a Ph.D. student in the Department
 
 # 🔥 News
 
-- *2026.07*: Tutorial speaker for **Speech Large Language Models: Architectures, Efficient Adaptation, and Applications** at ICME 2026.
+- *2026*: Tutorial speaker for **Speech Large Language Models: Architectures, Efficient Adaptation, and Applications** at ICME 2026.
 - *2026*: Two papers were accepted by **INTERSPEECH 2026**. See you in Australia!
 - *2026*: **Distilling Attention Knowledge for Speaker Verification** was accepted by **ICASSP 2026**.
 - *2025*: **Uncertainty-Aware Multi-Head Multi-Mode Knowledge Distillation for Self-Supervised Speaker Verification** was accepted by **IEEE/ACM TASLP**.
