@@ -1,22 +1,18 @@
-# main links links
+# main links
+# Use hash-only URLs so clicking the top navigation jumps within the current page
+# instead of opening/reloading another page.
 main:
   - title: "About Me"
-    url: "/#about-me"
-
+    url: "#about-me"
   - title: "News"
-    url: "/#-news"
-
+    url: "#news"
   - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
+    url: "#publications"
+  - title: "Education"
+    url: "#education"
   - title: "Internships"
-    url: "/#-internships"
+    url: "#internships"
+  - title: "Services"
+    url: "#services"
+  - title: "Honors"
+    url: "#honors"
